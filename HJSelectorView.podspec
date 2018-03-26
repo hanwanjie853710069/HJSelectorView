@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
   #项目的地址
   s.source       = { :git => "https://github.com/hanwanjie853710069/HJSelectorView.git", :tag => s.version }
   #需要包含的源文件
-  s.source_files  = "HJSelectorView/View/*.{h,m}"
+  s.source_files  = "HJSelectorView/HJSelectorView/View/*.{h,m}"
   #是否支持ARC
   s.requires_arc = true
 
