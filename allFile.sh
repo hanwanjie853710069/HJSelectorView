@@ -31,6 +31,6 @@ git tag "1.0.0"
 
 git push --tag
 
-pod spec lint HJPageMenu.podspec --verbose --allow-warnings
+pod spec lint HJSelectorView.podspec --verbose --allow-warnings
 
-pod trunk push HJPageMenu.podspec --verbose --allow-warnings
+pod trunk push HJSelectorView.podspec --verbose --allow-warnings
